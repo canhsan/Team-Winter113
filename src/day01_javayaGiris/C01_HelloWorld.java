@@ -8,6 +8,7 @@ public class C01_HelloWorld {
         // java aciklama satirlarini gormezden gelir (ignore eder)
         // IntelliJ'de bu aciklama yazilarini gri renkli yapar
 
+
         System.out.println("Hello World");
 
         /*
